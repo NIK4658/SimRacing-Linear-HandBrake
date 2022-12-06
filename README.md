@@ -1,16 +1,16 @@
-# **PROJECT TITLE** 🚧 ![StatusBadge](https://badgen.net/badge/Status/Completed/green) ![StatusBadge](https://badgen.net/badge/Status/In%20Progress/orange) ![StatusBadge](https://badgen.net/badge/Status/Not%20Completed/red) 
+# **SIMRACING LINEAR HANDBRAKE** ❗ ![StatusBadge](https://badgen.net/badge/Status/Completed/green)
 
-**Tags:** (https://shields.io/)
+**Tags:** 
 
-![Topic](https://img.shields.io/badge/Topic-Topic-red?style=for-the-badge)
+![Topic](https://img.shields.io/badge/Topic-Simracing-red?style=for-the-badge)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Difficulty-success?style=for-the-badge)
-![Topic](https://img.shields.io/badge/Cost-Cost-yellow?style=for-the-badge)
-![Topic](https://img.shields.io/badge/Tools-Tools-blueviolet?style=for-the-badge)
+![Difficulty](https://img.shields.io/badge/Difficulty-Normal-success?style=for-the-badge)
+![Topic](https://img.shields.io/badge/Cost-Medium-yellow?style=for-the-badge)
+![Topic](https://img.shields.io/badge/Tools-3D%20Printer-blueviolet?style=for-the-badge)
 
-![Topic](https://img.shields.io/badge/Wiring%20Diagram-Availability-informational?style=for-the-badge)
+![Topic](https://img.shields.io/badge/Wiring%20Diagram-AVAILABLE%20FOR%20FREE-informational?style=for-the-badge)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Topic](https://img.shields.io/badge/3D%20Models-Availability-informational?style=for-the-badge)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Topic](https://img.shields.io/badge/3D%20Models-AVAILABLE%20FOR%20FREE-informational?style=for-the-badge)
 
 ---
 
@@ -33,15 +33,15 @@
 
 ## **Ratings**
 
-**Difficulty:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5/5  ⭐⭐⭐⭐⭐
+**Difficulty:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2/5  ⭐⭐⚫⚫⚫
 
-**Parts needed:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3/5  ⭐⭐⭐⚫⚫
+**Parts needed:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2/5  ⭐⭐⚫⚫⚫
 
-**Cost:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5/5  ⭐⭐⭐⭐⭐
+**Cost:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3/5  ⭐⭐⭐⚫⚫
 
-**Usefulness:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1/5  ⭐⚫⚫⚫⚫
+**Usefulness:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4/5  ⭐⭐⭐⭐⚫
 
-**Time needed:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5/5  ⭐⭐⭐⭐⭐
+**Time needed:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2/5  ⭐⭐⚫⚫⚫
 
 [//]: # (## REPORT)
 [//]: # (Check the report in the repository if avaiable.)
