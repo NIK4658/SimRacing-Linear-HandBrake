@@ -68,14 +68,15 @@
 </p>
 
 **Hardware components:**
-- 1 x Component_1
-- 2 x Component_2
-- 3 x Component_3
+- 1 x Arduino Pro Micro 
+- 1 x Hydraulic Handbrake
+- 1 x 10K Linear Potentiometer (60mm).
+- 1 x 3D Printed Case *(Optional)*
+- 5 x M5 bolt (? mm)
 
 **Necessary tools:**
-- Tool_1
-- Tool_2
-- Tool_3
+- Soldering Iron
+- 3D Printer *(Optional)*
 
 ### **How to assemble it**
 
