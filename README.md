@@ -26,9 +26,10 @@
 </p>
 
 ### **Features**
-- 
-- 
-- 
+- Enhance your racing experience and immersion with a real handbrake in your SimRig.
+- The linear signal ensures accuracy and linearity when engaging the handbrake, as opposed to having a single button that instantly shifts the signal from 0% to 100%.
+- Having a physical handbrake helps ensure better accessibility than a simple button on the steering wheel which can often be difficult to press while racing.
+- Customized management of the signal in relation to its curve, dead zone, linearity and saturation.
 
 
 ## **Ratings**
@@ -77,14 +78,20 @@
 **Necessary tools:**
 - Soldering Iron
 - 3D Printer *(Optional)*
+- Hot Glue Gun / SuperGlue
 
 ### **How to assemble it**
 
-1. Phase 1
-2. Phase 2
-3. Phase 3
-4. Phase 4
-5. Phase 5
+1. Wire the Arduino pins with the linear potentiometer according to the *Wiring Diagram*.
+2. Fix the *Arduino Pro Micro* in the 3D printed case using Hot Glue or Super Glue.
+3. Fix the *linear potentiometer* in the 3D printed case using Hot Glue or Super Glue.
+4. Close the 3D printed case.
+5. Fix the *linear potentiometer* **slider cap** with Hot Glue or Super Glue.
+6. Lock the 3D printed case with the M5 bolts in the Hydraulic Handbrake frame.
+7. Lock the *linear potentiometer slider cap* in the Hydraulic Handbrake frame **using the existing slide bolt**.
+9. Download the latest **Arduino IDE** and **Arduino Drivers**.
+10. Connect the Arduino to the PC using an USB cable.
+11. Open **Arduino IDE** and *upload the code* **provided in the repository**.
 
 ---
 
