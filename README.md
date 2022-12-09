@@ -22,8 +22,9 @@
 
 
 <p class="Project Presentation Image" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+  <img align="center" src="./src/images/Renders/Render1.png" width="1000">
 </p>
+
 
 ### **Features**
 - Enhance your racing experience and immersion with a real handbrake in your SimRig.
@@ -73,7 +74,7 @@
 - 1 x Hydraulic Handbrake
 - 1 x 10K Linear Potentiometer (60mm).
 - 1 x 3D Printed Case *(Optional)*
-- 5 x M5 bolt (? mm)
+- 5 x M5 bolt (Minimum 30 mm)
 
 **Necessary tools:**
 - Soldering Iron
@@ -100,7 +101,12 @@
 ### **RENDER**
 
 <p class="Single Image Render" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+  <img align="center" src="./src/images/Renders/Render3.png" width="1000">
+</p>
+
+<p class="Double Image Render" align="center">
+  <img align="center" src="./src/images/Renders/Render1.png" width="400">
+  <img align="center" src="./src/images/Renders/Render2.png" width="400">
 </p>
 
 ## **IRL (Project Completed)**
