@@ -10,7 +10,10 @@
 
 ![Topic](https://img.shields.io/badge/Wiring%20Diagram-AVAILABLE%20FOR%20FREE-informational?style=for-the-badge)
 
+&nbsp;&nbsp;&nbsp;![Topic](https://img.shields.io/badge/ARDUINO%20CODE-AVAILABLE%20FOR%20FREE-informational?style=for-the-badge)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Topic](https://img.shields.io/badge/3D%20Models-AVAILABLE%20FOR%20FREE-informational?style=for-the-badge)
+
 
 ---
 
@@ -71,6 +74,9 @@ Also **it ensures accuracy** and linearity when engaging the handbrake, as oppos
 
 [//]: # (Do you want to have it printed? Click Here.)
 
+### **3D MODEL FILES:**
+
+**All** 3D models files are **available for free** and *can be found in the repository.*
 
 ## **Wiring diagram** 
 [//]: # (if necessary)
@@ -104,6 +110,10 @@ Also **it ensures accuracy** and linearity when engaging the handbrake, as oppos
 10. Connect the Arduino to the PC using an USB cable.
 11. Open **Arduino IDE** and *upload the code* **provided in the repository**.
 
+### **ARDUINO CODE:**
+
+The Arduino Code is **available for free** and *can be found in the repository.*
+
 ---
 
 ## **GALLERY:**
@@ -119,8 +129,10 @@ Also **it ensures accuracy** and linearity when engaging the handbrake, as oppos
   <img align="center" src="./src/images/Renders/Render2.png" width="400">
 </p>
 
+<!--
 ## **IRL (Project Completed)**
 
 <p class="Multiple IRL Images" align="center">
   <img align="center" src="./src/images/sampleImage.png" width="1000">
 </p>
+--!>
