@@ -16,7 +16,17 @@
 
 ## **PROJECT DESCRIPTION:**
 
-[Text Description]
+This project is a **DIY hardware project** and it's a *Linear Handbrake* used for **SimRacing**.
+
+The project is basically a *MOD* for a **REAL hydraulic handbrake**, converting it into a linear analog signal **to be used for Simracing**.
+
+The *purpose* of this project is to **improve immersion** while playing *Racing games* AND have *better control* of the car since **the handbrake signal can now be modulated.**
+
+Having an **analog signal instead of pressing a button** is very gamechanging, because thanks to that **it is possible to manage the signal** in relation to its *curve, dead zone, linearity and saturation*.
+
+Also **it ensures accuracy** and linearity when engaging the handbrake, as opposed to having a single button *that instantly shifts the signal from 0% to 100%*.
+
+**The arduino Code is avaiable for free in the repository.**
 
 [//]: # (Optional: year quarter month period)
 
