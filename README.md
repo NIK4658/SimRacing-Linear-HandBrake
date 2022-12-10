@@ -40,10 +40,10 @@ Also **it ensures accuracy** and linearity when engaging the handbrake, as oppos
 
 
 ### **Features**
-- Enhance your racing experience and immersion with a real handbrake in your SimRig.
-- The linear signal ensures accuracy and linearity when engaging the handbrake, as opposed to having a single button that instantly shifts the signal from 0% to 100%.
-- Having a physical handbrake helps ensure better accessibility than a simple button on the steering wheel which can often be difficult to press while racing.
-- Customized management of the signal in relation to its curve, dead zone, linearity and saturation.
+- *Enhance* your racing experience and immersion with a **real handbrake** in your SimRig.
+- The **linear signal** ensures *accuracy and linearity* when engaging the handbrake, as opposed to having a single button that *instantly shifts the signal from 0% to 100%*.
+- Having a physical handbrake *helps ensure better accessibility than a simple button on the steering wheel* which can often be difficult to press while racing.
+- **Customized management of the signal** in relation to its *curve, dead zone, linearity and saturation*.
 
 
 ## **Ratings**
@@ -66,9 +66,20 @@ Also **it ensures accuracy** and linearity when engaging the handbrake, as oppos
 ## **3D MODELS IMAGES** 
 [//]: # (if necessary)
 
+### **CASE**
 <p class="3D MODELS IMAGES" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+  <img align="center" src="./src/images/3D%20Models/Base1.png" width="400">
+  <img align="center" src="./src/images/3D%20Models/Base2.png" width="400">
 </p>
+
+### **TOP & SLIDING CAP**
+<p class="3D MODELS IMAGES" align="center">
+  <img align="center" src="./src/images/3D%20Models/Top1.png" width="260">
+  <img align="center" src="./src/images/3D%20Models/Top2.png" width="260">
+  <img align="center" src="./src/images/3D%20Models/Slidecap.png" width="260">
+</p>
+
+
 
 [//]: # (One or two images that contains multiple view of one or many 3D models)
 
@@ -82,7 +93,7 @@ Also **it ensures accuracy** and linearity when engaging the handbrake, as oppos
 [//]: # (if necessary)
 
 <p class="Electrical Diagram Image" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+  <img align="center" src="./src/images/Wiring%20Diagram/Wiring Diagram.png" width="1000">
 </p>
 
 **Hardware components:**
